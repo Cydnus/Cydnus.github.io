@@ -1,0 +1,27 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+- project: 로봇 팔 레고 조립/포장 기계
+  subject: 대한상공회의소 서울기술교육센터 최종 프로젝트
+  #role: 
+  teamsize: 4
+  duration: 2021.06 &mdash; 2021.08
+  url: "https://cydnus.github.io/portfolio/posts/RobotArm/"
+  description: "3D 모델링 파일을 레고 블럭 단위로 나누어 필요한 블럭들 및 위치에 맞는 파일들로 변환하여 아두이노를 통한 로봇 팔을 통하여 해당 위치로 조립 또는 상자에 담는 포장하는 것을 목표 </br> Language : python, Arduino(c/c++) </br> Skills </br>&emsp;Arduino : 6개의 서보 모터 제어</br>&emsp;Raspberry pi 3 B+ : 서버와의 통신 및 아두이노와의 통신(프로토콜 정의)</br>&emsp;python : pyQt - 외부 폼 제작</br>&emsp;&emsp;&emsp;&emsp;&emsp; pyvistaqt - 3D 모델링 파일 불러오기 및 슬라이싱" 
+
+
+- project: 숫자 수화 인식
+  subject: 졸업 논문 / 프로젝트
+  #role: 
+  #teamsize: 
+  duration: 2019 &mdash; 2019
+  url: "https://cydnus.github.io/portfolio/posts/Gradulate-Project/"
+  description: "숫자 수화(0~9) 까지의 이미지를 학습 시켜 카메라를 통하여 들어오는 영상을 판단하여 화면에 표시 </br> Language : python </br> Skills </br>&emsp;OpenCV - 이미지 데이터 전처리 및 웹캠 캡쳐</br>&emsp;tensorflow(keras) - 이미지 데이터 증폭(keras imagedatagenerator) </br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;이미지 학습(Classification) "
+
+
+- project: 미세먼지 알림 어플리케이션
+  subject: 소프트웨어 공학과목 과제
+  role: 팀장
+  teamsize: 4
+  duration: 2018.09 &mdash; 2018.12
+  url: "https://cydnus.github.io/portfolio/posts/Micro-dust-applicaion/"
+  description: "안드로이드의 GPS센서의 값(위도/경도)을 주소값으로 변환 후 해당 위치의 미세먼지 데이터를 <a href='http://www.data.go.kr' target='blank' title='www.data.go.kr'>공공 데이터 포털</a>에서 불러와 화면에 표시 </br> Language : JAVA(Andorid) </br> Skills </br> &emsp;OpenAPI - <a href='http://www.data.go.kr' target='blank' title='www.data.go.kr'>공공 데이터 포털</a>에서 미세먼지 데이터 불러옴</br> &emsp;JAVA - Android studio를 활용하여 GPS 값 센싱, 변환, 출력" 

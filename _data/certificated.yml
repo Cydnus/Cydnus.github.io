@@ -1,0 +1,15 @@
+# certificated
+# comment out the urls if you do not wish to display them
+
+- organization: 대한상공회의소 서울기술교육센터
+  subject: IoT 기반 스마트팩토리 SW개발 전문가과정
+  year: 2021.03 &mdash; 2021.08
+  url: https://cydnus.github.io/
+  summary: ATmega 128, Arduino, Raspberry Pi같은 MCU 부터 PLC까지 다양한 기기들을 프로그래밍 학습 </br>MCU와 C#을 통한 windows GUI, Python을 활용한 장비 간 연동하는 학습 및 프로젝트 진행
+
+
+- organization: 청년취업아카데미
+  subject: C# .Net 플랫폼기반 소프트웨어 엔지니어 양성과정
+  year: 2019.06 &mdash; 2019.12
+  url: https://cydnus.github.io/
+  summary: C#을 활용한 DB(MySQL) 접속, 윈도우즈 GUI 프로그래밍 학습 및 프로젝트 진행
